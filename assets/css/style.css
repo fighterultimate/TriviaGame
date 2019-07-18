@@ -1,0 +1,43 @@
+body {
+    background-image: url("https://static1.squarespace.com/static/55ef0e29e4b099e22cdc9eea/5873a021ff7c502f98797a98/5873a022b8a79bc1e789e31f/1483972643192/hearts.jpg");
+    background-repeat: repeat;
+    
+    background-size: 20%;
+}
+
+#triviaBox {
+    background-color: whitesmoke;
+    height: 800px;
+    margin-top:60px;
+}
+
+#gameTitle {
+    font-family: 'Pacifico', cursive;
+font-size: 50px;
+text-align: center;
+background-color: rgb(87,60,226);
+color: whitesmoke;
+}
+
+#question {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.answers {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+#timer{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 40px;;
+}
+img {
+    height: 400px;
+    width: 400px;
+
+}
